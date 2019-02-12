@@ -1,6 +1,5 @@
 - [ABOUT](docs/about.md)
 - [PROJECTS🛠](docs/projects/README.md)
-- [STUDYLOG](docs/studylog.md)
 - [PYTHON](docs/python/README.md)
 - [MACHINE LEARNING](docs/machinelearning/README.md)
 - [DEEP LEARNING](docs/deeplearning/README.md)

@@ -7,6 +7,17 @@
   --heading-h1-font-size: var(--font-size-xxxl);
   --heading-h1-font-weight: bold;
 
+  --heading-h2-font-family: 'Love Ya Like A Sister', cursive;
+  --heading-h2-font-size: var(--font-size-xxl);
+  --heading-h2-font-weight: bold;
+
+  --heading-h3-font-family: 'Short Stack', cursive;
+  --heading-h3-font-size: var(--font-size-xl);
+
+  --heading-h4-font-family: 'Short Stack', cursive;
+  --heading-h4-font-size: var(--font-size-l);
+
+  --link-color: #D66373;
   --link-text-decoration: none;
   --link-text-decoration--hover: underline;
 
