@@ -1,3 +1,3 @@
 - [Home](/)
-- [Projects](docs/projects/README.md)
+- [Projects](projects/README.md)
 - [About](docs/about.md)
