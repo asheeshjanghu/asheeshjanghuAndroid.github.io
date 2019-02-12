@@ -1,0 +1,18 @@
+:root {
+  --base-font-size: 16px;
+  --base-font-family: 'Open Sans', sans-serif;
+  --strong-font-weight: 900;
+
+  --heading-h1-font-family: 'Love Ya Like A Sister', cursive;
+  --heading-h1-font-size: var(--font-size-xxxl);
+  --heading-h1-font-weight: bold;
+
+  --link-text-decoration: none;
+  --link-text-decoration--hover: underline;
+
+  --sidebar-name-font-family: 'Sacramento', cursive;
+  --sidebar-name-font-size: var(--font-size-xxl);
+  --sidebar-name-font-weight: bold;
+
+  --sidebar-nav-link-text-decoration--hover: none;
+}
