@@ -8,9 +8,10 @@ Lots of practice.
 
 ### Apps
 - [TAB](https://www.tab.com.au)
-- [My Journal]
-- [Boost]
-- [Qantas Assure]
+- [My Journal](https://play.google.com/store/apps/details?id=com.journal.janghua.mymorycalendar)
+- [Boost](https://play.google.com/store/apps/details?id=my.com.myboost)
+- [Qantas Assure](https://play.google.com/store/apps/details?id=com.qantas.assure)
+- [UltraCash](https://play.google.com/store/apps/details?id=com.ultracash.payment.customer)
 
 ### Books
 - Official Documentation
